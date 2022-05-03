@@ -104,5 +104,6 @@ dist
 .tern-port
 
 # TS compiled output
-out/*.js
-out/*.map
+out/*
+# out/*.js
+# out/*.map
